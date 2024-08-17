@@ -1,5 +1,5 @@
 // Definindo a data de término da manutenção
-const endDate = new Date("Jul 30, 2024 15:00:00").getTime();
+const endDate = new Date("Aug 15, 2024 12:00:00").getTime();
 
 // Atualizando o contador a cada segundo
 const countdownInterval = setInterval(() => {
